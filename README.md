@@ -1,2 +1,2 @@
 # SpringBasicCrudApi
-This is for testing.
+This is for learning basic crud api.
